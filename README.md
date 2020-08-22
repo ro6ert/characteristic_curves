@@ -13,3 +13,4 @@ Example 2: Burger's Equation
 
 Example 3: Wave Equation
 
+To Run:
